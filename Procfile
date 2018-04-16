@@ -1,1 +1,1 @@
-web: node react-native-nw-react-calculator/src/index.js
+web: node app/src/index.js
