@@ -1,0 +1,8 @@
+{
+	"name": "Node.js Getting Started",
+	"description": "A barebones Node.js app",
+	"repository": "https://github.com/paudieHealy/react-native-nw-react-calculator.git"
+	"logo": "http://node-js-sample.herokuapp.com/node.svg",
+	"keywords": "heroku/nodejs"
+	"image": "heroku/nodejs"
+}
